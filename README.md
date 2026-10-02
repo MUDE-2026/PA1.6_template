@@ -1,4 +1,4 @@
-# Programming assignment <x.x>: BotHeat.py
+# Programming assignment 1.6: BotHeat.py
 
 You can preview the instructions of this assignment on https://mude.citg.tudelft.nl/workbook-2026/assignments/PA1.6/README.html. After the deadline, this link will include solutions. The preview without solutions will remain available here: https://mude.citg.tudelft.nl/workbook-2026/no_solutions/assignments/PA1.6/README.html. All files of an assignment can be downloaded as [`.zip`-file](https://mude.citg.tudelft.nl/workbook-2026/_custom_downloads/assignments/PA1.6/all_files_PA_1_6.zip) to your computer.
 
